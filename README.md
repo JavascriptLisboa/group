@@ -2,15 +2,15 @@
 
 A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
+### Upcoming meetups
+
+2014 To be announced... (please suggest talks on [issues](https://github.com/require-lx/group/issues?labels=talk&page=1&state=open))
+
 ### Past meetups
 * [first meetup](http://www.meetup.com/require-lx/events/129985122/) 01/08/2013
 * [mini `require('lx')`](http://www.meetup.com/php-lx/events/123331262/) 08/08/2013
 * [second meetup](http://www.meetup.com/require-lx/events/132698882/) 05/09/2013
 * [third meetup](http://www.meetup.com/require-lx/events/152610542/) 27/11/2013
-
-### Upcoming meetups
-
-2014 To be announced... (please suggest talks on [issues](https://github.com/require-lx/group/issues?labels=talk&page=1&state=open))
 
 ### Resources
 * [first meetup](https://github.com/require-lx/resources/tree/master/meetup%20%231) 01/08/2013
